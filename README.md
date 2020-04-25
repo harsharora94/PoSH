@@ -2,7 +2,7 @@
 Powershell scripts 
 
 
-# HOW TO DISPLAY FIREWALL INBOUND/OUTBOUND RULES WITH PORT NUMBERS & PROGRAM EXCEPTIONS 
+# How To Display Firewall Inbound/Outbound Rules With Port Numbers & Program Exceptions
 Displaying firewall Inbound/Outbound rules with PowerShell is very easy with the Get-NetFirewallRule cmdlet.
 However, there is a gap: port numbers are not displayed.
 
