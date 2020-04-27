@@ -1,5 +1,5 @@
 # PoSH
-Powershell scripts 
+Useful Powershell scripts 
 
 
 # How To Display Firewall Inbound/Outbound Rules With Port Numbers & Program Exceptions
